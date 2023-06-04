@@ -1,0 +1,3 @@
+# name all files here which are not supposed to be tracked or pushed on github via git tracking.
+api.key
+one.html
